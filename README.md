@@ -7,8 +7,9 @@
 powershell -c "irm bun.sh/install.ps1 | iex"
 ```
 
+**Go:** [Go](https://go.dev/doc/install)
+
 **Wails:**
-[Go](https://go.dev/doc/install)
 ```
 go install github.com/wailsapp/wails/v2/cmd/wails@latest
 ```
