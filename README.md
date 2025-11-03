@@ -3,12 +3,18 @@
 ## Ön Gereksinimler
 
 **BunJS:**
+```
 powershell -c "irm bun.sh/install.ps1 | iex"
+```
 
 **Wails:**
-https://go.dev/doc/install
+[[https://go.dev/doc/install]](Go)
+```
 go install github.com/wailsapp/wails/v2/cmd/wails@latest
+```
 
 ## Nasıl Kullanırsınız
 
+```
  wails init -n "Proje Adı" -t https://github.com/fdqms/wails-vite-bun-react-template
+```
