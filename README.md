@@ -7,7 +7,7 @@
 powershell -c "irm bun.sh/install.ps1 | iex"
 ```
 
-**Go:** [Go](https://go.dev/doc/install)
+**[Go](https://go.dev/doc/install)**
 
 **Wails:**
 ```
